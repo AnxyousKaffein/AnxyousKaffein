@@ -33,6 +33,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=grey">
 <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=grey">
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&labelColor=grey">
+<img alt="Static Badge" src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&labelColor=grey">
+
 
 <!-- API Tools -->
 <img alt="Static Badge" src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&labelColor=grey">
