@@ -42,17 +42,7 @@
 
 
   <h3>My portfolio of projects</h3>
-<table>
-  <tbody>
-    <tr>
-	    [Headless Blog on NextJS](https://github.com/AnxyousKaffein/headless-blog-nextjs)
-    </tr>
-	<tr>
-    </tr>
-    <tr>
-    </tr>
-  </tbody>
-</table>
+	Headless Blog on NextJS https://github.com/AnxyousKaffein/headless-blog-nextjs/
   
   
   
