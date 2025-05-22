@@ -45,8 +45,9 @@
 <table>
   <tbody>
     <tr>
+	    [Headless Blog on NextJS](https://github.com/AnxyousKaffein/headless-blog-nextjs)
     </tr>
-	  <tr>
+	<tr>
     </tr>
     <tr>
     </tr>
